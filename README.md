@@ -7,8 +7,8 @@ Xcode Survey Analysis is a project dedicated to dissecting survey data for an En
 The dataset for this project is derived from a comprehensive survey conducted by the Energy Drink company. It includes detailed responses covering consumer preferences in terms of price, packaging, marketing channels, and demographic information like age, gender, and city.
 
 ## Dependencies
-- SQL Database (e.g., MySQL, PostgreSQL, SQLite)
-- Any SQL client or interface for data analysis (e.g., DBeaver, MySQL Workbench)
+- SQL Database(MYSQL)
+
 
 ## Installation
 No specific installation is required for SQL scripts. However, ensure that you have access to a SQL database where the survey data is stored and a SQL client for executing queries.
